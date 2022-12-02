@@ -33,7 +33,7 @@ tags = ["academic",
         "technical",
         "slide"
         ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio", "company",
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
