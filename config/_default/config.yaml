@@ -3,14 +3,20 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: МИТ # Website name
+baseURL: 'http://localhost/' # Website URL
+
+# [params.header]
+# [params.header.title]
+      # URL of the LOGO
+      # LOGO 的 URL
+logo: "https://masterait.ru/wp-content/uploads/2020/05/logoMIT-164-45.png"
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

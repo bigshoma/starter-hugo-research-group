@@ -1,5 +1,5 @@
 ---
-title: Автор
+title: Шамиль
 role: Профессиональный программист 1С
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
